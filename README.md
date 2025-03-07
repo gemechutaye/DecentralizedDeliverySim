@@ -55,14 +55,15 @@ python main.py
 
 ### Simulation View
 ![Simulation View 1](images/simulation_view1.png)
-*Simulation grid showing drones (blue/red circles), paths (colored lines), and buildings (yellow blocks)*
+*Simulation view showing drones (D0-D4) navigating through a city grid with buildings (yellow blocks) and their movement paths (blue/red lines). The Byzantine drone (D0) is shown in red.*
 
-![Simulation View 2](images/simulation_view2.png)
-*Simulation showing customer locations (green circles) and drone delivery paths*
+### Daytime Simulation
+![Daytime Simulation](images/simulation_view2.png)
+*Daytime simulation view with lighter background showing drones and customer locations. The interface displays the grid environment where agents navigate to find and deliver to customers.*
 
 ### Mission Report
 ![Mission Report](images/mission_report.png)
-*End of mission report showing delivery statistics and efficiency metrics*
+*End-of-mission report showing delivery statistics (2/3 deliveries completed), efficiency metrics (rating: 12.09), and performance analysis. The report provides a comprehensive overview of the mission's success and areas for improvement.*
 
 ## 🧩 Project Structure
 
