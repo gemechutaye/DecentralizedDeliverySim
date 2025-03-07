@@ -51,6 +51,19 @@ python main.py
 - **Pause/Resume**: Press SPACE to toggle simulation pause
 - **Restart**: Press R to restart the simulation (if implemented)
 
+## 📸 Screenshots
+
+### Simulation View
+![Simulation View 1](images/simulation_view1.png)
+*Simulation grid showing drones (blue/red circles), paths (colored lines), and buildings (yellow blocks)*
+
+![Simulation View 2](images/simulation_view2.png)
+*Simulation showing customer locations (green circles) and drone delivery paths*
+
+### Mission Report
+![Mission Report](images/mission_report.png)
+*End of mission report showing delivery statistics and efficiency metrics*
+
 ## 🧩 Project Structure
 
 - **`main.py`**: Entry point that initializes the environment, agents, and runs the simulation loop.
