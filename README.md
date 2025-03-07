@@ -63,7 +63,7 @@ python main.py
 
 ### Mission Report
 ![Mission Report](images/simulation_view2.png)
-*End-of-mission report showing delivery statistics (2/3 deliveries completed), efficiency metrics (rating: 12.09), and performance analysis. The report provides a comprehensive overview of the mission's success and areas for improvement.*
+*End-of-mission report displaying comprehensive delivery statistics and performance metrics. Features include mission status (PARTIAL SUCCESS), flight time (100 minutes), efficiency rating (12.09), delivery completion rate (2/3 deliveries, 66.7%), and a detailed mission history table showing timestamped events. The interface includes options to launch a new mission or exit the system.*
 
 ## 🧩 Project Structure
 
